@@ -1,6 +1,6 @@
 # PSO-University-Timetable-Scheduling
 
-# Particle-Swarm-Optimization-PSO-for-University-Timetable-Scheduling-GUI
+## GUI instructions 
 
 ## Usage 
 1. Create virtual enviromemnt with python version 3.10
